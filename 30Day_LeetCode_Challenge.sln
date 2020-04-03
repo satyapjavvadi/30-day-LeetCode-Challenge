@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSingleNumber", "FindSingleNumber\FindSingleNumber.csproj", "{34B53F1C-0280-425A-85BC-D1614C53B7F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyNumber", "HappyNumber\HappyNumber.csproj", "{CDA6214C-85DC-425C-8EDF-76D9B2E87970}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{34B53F1C-0280-425A-85BC-D1614C53B7F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34B53F1C-0280-425A-85BC-D1614C53B7F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34B53F1C-0280-425A-85BC-D1614C53B7F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDA6214C-85DC-425C-8EDF-76D9B2E87970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA6214C-85DC-425C-8EDF-76D9B2E87970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDA6214C-85DC-425C-8EDF-76D9B2E87970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDA6214C-85DC-425C-8EDF-76D9B2E87970}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
