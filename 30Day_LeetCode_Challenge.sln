@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubArray", "MaximumS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{758F6B4A-48A8-4AB9-84A3-4947AB42C387}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStockII", "BestTimeToBuyAndSellStockII\BestTimeToBuyAndSellStockII.csproj", "{8D2AC73F-A553-4D79-8E4A-3C03C15569E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{758F6B4A-48A8-4AB9-84A3-4947AB42C387}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{758F6B4A-48A8-4AB9-84A3-4947AB42C387}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{758F6B4A-48A8-4AB9-84A3-4947AB42C387}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D2AC73F-A553-4D79-8E4A-3C03C15569E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2AC73F-A553-4D79-8E4A-3C03C15569E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2AC73F-A553-4D79-8E4A-3C03C15569E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2AC73F-A553-4D79-8E4A-3C03C15569E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
