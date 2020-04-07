@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes", "MoveZeroes\Mo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStockII", "BestTimeToBuyAndSellStockII\BestTimeToBuyAndSellStockII.csproj", "{8D2AC73F-A553-4D79-8E4A-3C03C15569E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupAnagrams", "GroupAnagrams\GroupAnagrams.csproj", "{17D73B6E-A2B0-44A7-8056-A62A73568B8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{8D2AC73F-A553-4D79-8E4A-3C03C15569E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D2AC73F-A553-4D79-8E4A-3C03C15569E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D2AC73F-A553-4D79-8E4A-3C03C15569E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D73B6E-A2B0-44A7-8056-A62A73568B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D73B6E-A2B0-44A7-8056-A62A73568B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D73B6E-A2B0-44A7-8056-A62A73568B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D73B6E-A2B0-44A7-8056-A62A73568B8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
