@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupAnagrams", "GroupAnagr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingElements", "CountingElements\CountingElements.csproj", "{23A201E6-5F39-4397-8882-5C6039D4A2D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleOfLinkedList", "MiddleOfLinkedList\MiddleOfLinkedList.csproj", "{D830E1DE-6A31-4259-90A1-A2F2D822D5FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{23A201E6-5F39-4397-8882-5C6039D4A2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23A201E6-5F39-4397-8882-5C6039D4A2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23A201E6-5F39-4397-8882-5C6039D4A2D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D830E1DE-6A31-4259-90A1-A2F2D822D5FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D830E1DE-6A31-4259-90A1-A2F2D822D5FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D830E1DE-6A31-4259-90A1-A2F2D822D5FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D830E1DE-6A31-4259-90A1-A2F2D822D5FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
