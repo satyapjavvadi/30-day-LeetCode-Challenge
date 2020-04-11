@@ -3,23 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindSingleNumber", "FindSingleNumber\FindSingleNumber.csproj", "{34B53F1C-0280-425A-85BC-D1614C53B7F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindSingleNumber", "FindSingleNumber\FindSingleNumber.csproj", "{34B53F1C-0280-425A-85BC-D1614C53B7F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappyNumber", "HappyNumber\HappyNumber.csproj", "{CDA6214C-85DC-425C-8EDF-76D9B2E87970}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HappyNumber", "HappyNumber\HappyNumber.csproj", "{CDA6214C-85DC-425C-8EDF-76D9B2E87970}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumSubArray", "MaximumSubArray\MaximumSubArray.csproj", "{A9DE2663-51D8-4CEE-AA59-E16A14EF72F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MaximumSubArray", "MaximumSubArray\MaximumSubArray.csproj", "{A9DE2663-51D8-4CEE-AA59-E16A14EF72F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{758F6B4A-48A8-4AB9-84A3-4947AB42C387}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{758F6B4A-48A8-4AB9-84A3-4947AB42C387}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestTimeToBuyAndSellStockII", "BestTimeToBuyAndSellStockII\BestTimeToBuyAndSellStockII.csproj", "{8D2AC73F-A553-4D79-8E4A-3C03C15569E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestTimeToBuyAndSellStockII", "BestTimeToBuyAndSellStockII\BestTimeToBuyAndSellStockII.csproj", "{8D2AC73F-A553-4D79-8E4A-3C03C15569E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupAnagrams", "GroupAnagrams\GroupAnagrams.csproj", "{17D73B6E-A2B0-44A7-8056-A62A73568B8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupAnagrams", "GroupAnagrams\GroupAnagrams.csproj", "{17D73B6E-A2B0-44A7-8056-A62A73568B8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountingElements", "CountingElements\CountingElements.csproj", "{23A201E6-5F39-4397-8882-5C6039D4A2D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountingElements", "CountingElements\CountingElements.csproj", "{23A201E6-5F39-4397-8882-5C6039D4A2D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleOfLinkedList", "MiddleOfLinkedList\MiddleOfLinkedList.csproj", "{D830E1DE-6A31-4259-90A1-A2F2D822D5FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddleOfLinkedList", "MiddleOfLinkedList\MiddleOfLinkedList.csproj", "{D830E1DE-6A31-4259-90A1-A2F2D822D5FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackSpaceStringCompare", "BackSpaceStringCompare\BackSpaceStringCompare.csproj", "{8C47ED63-1B2D-42F7-AC67-53E4BEAF87AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackSpaceStringCompare", "BackSpaceStringCompare\BackSpaceStringCompare.csproj", "{8C47ED63-1B2D-42F7-AC67-53E4BEAF87AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinStack", "MinStack\MinStack.csproj", "{02B77B46-2355-4D2C-BE4B-6C065AA78FEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{8C47ED63-1B2D-42F7-AC67-53E4BEAF87AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C47ED63-1B2D-42F7-AC67-53E4BEAF87AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C47ED63-1B2D-42F7-AC67-53E4BEAF87AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02B77B46-2355-4D2C-BE4B-6C065AA78FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02B77B46-2355-4D2C-BE4B-6C065AA78FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02B77B46-2355-4D2C-BE4B-6C065AA78FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02B77B46-2355-4D2C-BE4B-6C065AA78FEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
