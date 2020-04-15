@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LastStoneWeight", "LastSton
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContiguousArray", "ContiguousArray\ContiguousArray.csproj", "{7C7BD3C5-9EAD-4810-BD34-8844738FC63F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformStringShifts", "PerformStringShifts\PerformStringShifts.csproj", "{8C8F26C9-18F3-4E77-B7AD-2FB8466EF3BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{7C7BD3C5-9EAD-4810-BD34-8844738FC63F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C7BD3C5-9EAD-4810-BD34-8844738FC63F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C7BD3C5-9EAD-4810-BD34-8844738FC63F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C8F26C9-18F3-4E77-B7AD-2FB8466EF3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8F26C9-18F3-4E77-B7AD-2FB8466EF3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8F26C9-18F3-4E77-B7AD-2FB8466EF3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8F26C9-18F3-4E77-B7AD-2FB8466EF3BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
