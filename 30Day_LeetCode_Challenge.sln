@@ -33,9 +33,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PerformStringShifts", "Perf
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductOfArrayExceptSelf", "ProductOfArrayExceptSelf\ProductOfArrayExceptSelf.csproj", "{823D13CB-4CCF-4185-B235-02DE74CDFCCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParenthesisString", "ValidParenthesisString\ValidParenthesisString.csproj", "{7C4FC8E1-4FCF-4BCF-A06B-1F4E8AB1FD85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParenthesisString", "ValidParenthesisString\ValidParenthesisString.csproj", "{7C4FC8E1-4FCF-4BCF-A06B-1F4E8AB1FD85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfIslands", "NumberOfIslands\NumberOfIslands.csproj", "{485B8644-FACA-4F88-B928-3E73C0AC5748}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfIslands", "NumberOfIslands\NumberOfIslands.csproj", "{485B8644-FACA-4F88-B928-3E73C0AC5748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumPathSum", "MinimumPathSum\MinimumPathSum.csproj", "{29D1BF13-DCC2-4A57-94A9-ED4EA85D2F68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{485B8644-FACA-4F88-B928-3E73C0AC5748}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{485B8644-FACA-4F88-B928-3E73C0AC5748}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{485B8644-FACA-4F88-B928-3E73C0AC5748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29D1BF13-DCC2-4A57-94A9-ED4EA85D2F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29D1BF13-DCC2-4A57-94A9-ED4EA85D2F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29D1BF13-DCC2-4A57-94A9-ED4EA85D2F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29D1BF13-DCC2-4A57-94A9-ED4EA85D2F68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
