@@ -39,6 +39,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfIslands", "NumberOf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumPathSum", "MinimumPathSum\MinimumPathSum.csproj", "{29D1BF13-DCC2-4A57-94A9-ED4EA85D2F68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInRotatedSortedArray", "SearchInRotatedSortedArray\SearchInRotatedSortedArray.csproj", "{75A5AA93-52AE-416E-84D5-4C87C0205690}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{29D1BF13-DCC2-4A57-94A9-ED4EA85D2F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29D1BF13-DCC2-4A57-94A9-ED4EA85D2F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29D1BF13-DCC2-4A57-94A9-ED4EA85D2F68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A5AA93-52AE-416E-84D5-4C87C0205690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A5AA93-52AE-416E-84D5-4C87C0205690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A5AA93-52AE-416E-84D5-4C87C0205690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A5AA93-52AE-416E-84D5-4C87C0205690}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
