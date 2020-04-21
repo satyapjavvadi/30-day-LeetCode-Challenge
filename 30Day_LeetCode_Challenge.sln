@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumPathSum", "MinimumPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInRotatedSortedArray", "SearchInRotatedSortedArray\SearchInRotatedSortedArray.csproj", "{75A5AA93-52AE-416E-84D5-4C87C0205690}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSTreeFromPreOrder", "BSTreeFromPreOrder\BSTreeFromPreOrder.csproj", "{69322433-0F49-4EE2-A367-F7CB32C918C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{75A5AA93-52AE-416E-84D5-4C87C0205690}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75A5AA93-52AE-416E-84D5-4C87C0205690}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75A5AA93-52AE-416E-84D5-4C87C0205690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69322433-0F49-4EE2-A367-F7CB32C918C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69322433-0F49-4EE2-A367-F7CB32C918C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69322433-0F49-4EE2-A367-F7CB32C918C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69322433-0F49-4EE2-A367-F7CB32C918C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
