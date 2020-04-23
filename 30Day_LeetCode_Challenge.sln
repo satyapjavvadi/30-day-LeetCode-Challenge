@@ -37,11 +37,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParenthesisString", "V
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberOfIslands", "NumberOfIslands\NumberOfIslands.csproj", "{485B8644-FACA-4F88-B928-3E73C0AC5748}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumPathSum", "MinimumPathSum\MinimumPathSum.csproj", "{29D1BF13-DCC2-4A57-94A9-ED4EA85D2F68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumPathSum", "MinimumPathSum\MinimumPathSum.csproj", "{29D1BF13-DCC2-4A57-94A9-ED4EA85D2F68}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInRotatedSortedArray", "SearchInRotatedSortedArray\SearchInRotatedSortedArray.csproj", "{75A5AA93-52AE-416E-84D5-4C87C0205690}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInRotatedSortedArray", "SearchInRotatedSortedArray\SearchInRotatedSortedArray.csproj", "{75A5AA93-52AE-416E-84D5-4C87C0205690}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSTreeFromPreOrder", "BSTreeFromPreOrder\BSTreeFromPreOrder.csproj", "{69322433-0F49-4EE2-A367-F7CB32C918C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BSTreeFromPreOrder", "BSTreeFromPreOrder\BSTreeFromPreOrder.csproj", "{69322433-0F49-4EE2-A367-F7CB32C918C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubArrayAumEqualsK", "SubArrayAumEqualsK\SubArrayAumEqualsK.csproj", "{225FFA3E-983E-4BA8-96E3-FAB10D352362}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{69322433-0F49-4EE2-A367-F7CB32C918C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69322433-0F49-4EE2-A367-F7CB32C918C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69322433-0F49-4EE2-A367-F7CB32C918C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{225FFA3E-983E-4BA8-96E3-FAB10D352362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{225FFA3E-983E-4BA8-96E3-FAB10D352362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{225FFA3E-983E-4BA8-96E3-FAB10D352362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{225FFA3E-983E-4BA8-96E3-FAB10D352362}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
