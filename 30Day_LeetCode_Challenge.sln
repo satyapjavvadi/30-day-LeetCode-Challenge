@@ -43,7 +43,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInRotatedSortedArray"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BSTreeFromPreOrder", "BSTreeFromPreOrder\BSTreeFromPreOrder.csproj", "{69322433-0F49-4EE2-A367-F7CB32C918C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubArrayAumEqualsK", "SubArrayAumEqualsK\SubArrayAumEqualsK.csproj", "{225FFA3E-983E-4BA8-96E3-FAB10D352362}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubArrayAumEqualsK", "SubArrayAumEqualsK\SubArrayAumEqualsK.csproj", "{225FFA3E-983E-4BA8-96E3-FAB10D352362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LRUCache", "LRUCache\LRUCache.csproj", "{8DA0F615-EAFB-4D17-83F4-7EEE726DEFE1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{225FFA3E-983E-4BA8-96E3-FAB10D352362}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{225FFA3E-983E-4BA8-96E3-FAB10D352362}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{225FFA3E-983E-4BA8-96E3-FAB10D352362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA0F615-EAFB-4D17-83F4-7EEE726DEFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA0F615-EAFB-4D17-83F4-7EEE726DEFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA0F615-EAFB-4D17-83F4-7EEE726DEFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA0F615-EAFB-4D17-83F4-7EEE726DEFE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
