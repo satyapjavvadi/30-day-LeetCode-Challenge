@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpGame", "JumpGame\JumpGa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonSubsequence", "LongestCommonSubsequence\LongestCommonSubsequence.csproj", "{D0F82EC4-1C73-40BA-923F-1A7333F4CBFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximalSquare", "MaximalSquare\MaximalSquare.csproj", "{0D5318CC-5995-4287-A2B1-AED5A00E0A61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{D0F82EC4-1C73-40BA-923F-1A7333F4CBFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0F82EC4-1C73-40BA-923F-1A7333F4CBFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0F82EC4-1C73-40BA-923F-1A7333F4CBFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D5318CC-5995-4287-A2B1-AED5A00E0A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D5318CC-5995-4287-A2B1-AED5A00E0A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D5318CC-5995-4287-A2B1-AED5A00E0A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D5318CC-5995-4287-A2B1-AED5A00E0A61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
